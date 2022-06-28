@@ -2,8 +2,8 @@
 package pubsub
 
 import (
-	"github.com/kerberos-io/joy4/av"
-	"github.com/kerberos-io/joy4/av/pktque"
+	"github.com/olokos/joy5/av"
+	"github.com/olokos/joy5/av/pktque"
 	"io"
 	"sync"
 	"time"
